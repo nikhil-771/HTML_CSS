@@ -1,0 +1,80 @@
+*{
+    text-decoration: none;
+    color:white;
+    font-size:16px;
+
+}
+#div1{
+    height:60px;
+    background-color:#0f1111 ;
+}
+#link1{
+    color:#f08804;
+    width:200px;
+    font-size: 25px;
+    
+    margin-right:150px;
+}
+
+#link2{
+    
+    width:200px;
+    margin-right:150px;
+}
+
+#link3{
+    
+    width:200px;
+    margin-right:150px;
+}
+
+#link4{
+    
+    width:200px;
+    margin-right:150px;
+}
+
+button{
+    background-color: #f08804;
+    color:white;
+    width:50px;
+}
+.box1{
+    margin-top:20px;
+    height: 100px;
+    width: 200px;
+    background-color: aqua;
+    border:2px solid black;
+    display: inline-block;
+    text-align:center;
+    padding-top: 75px;
+
+}
+#box01{
+    background-image: url("clothes.avif");
+    background-size: cover;
+    margin-left:50px;
+}
+#box02{
+    background-image: url("elec.jpg");
+    background-size: cover;
+
+}
+#box03{
+    background-image: url("shoes.jpg");
+    background-size: cover;
+
+}
+#box04{
+    background-image: url("groceries.png");
+    background-size: cover;
+
+}
+#content{
+    height: 500px;
+}
+footer{
+    text-align: center;
+    background-color: #0f1111;
+    padding:50px;
+}

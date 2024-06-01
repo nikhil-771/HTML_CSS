@@ -1,0 +1,62 @@
+/* this is comment */
+/*   * means universal  */
+/*
+*{
+    color:blue
+}
+body{
+    background-color:grey;
+}
+
+h1{
+    color:black;
+}
+#head1{
+    color:green;
+}
+#head2{
+    color:blue;
+}
+.clss1{
+    color:brown;
+}
+#box{
+    background-color:white;
+    color:red;
+}
+
+h1,h2,h3{
+    color:green;
+}
+
+h1{
+    text-align: center;
+    text-decoration: red dashed overline;
+    
+}
+p1{
+    text-align:right;
+}
+*/
+#head1{
+    font-weight: 400;
+}
+#head2{
+    font-size:xx-large;
+}
+#p01
+{/*
+    text-align: center;
+    color:blue;
+    background-color: yellow;
+    font:bold;
+    text-decoration:red dashed underline;*/
+    font-family:Georgia,;
+    font-size: 25px;
+    text-transform: lowercase;
+    
+    text-transform: capitalize;
+}
+
+
+
